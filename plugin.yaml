@@ -1,0 +1,7 @@
+---
+name: "servecm"
+version: "0.1.0"
+usage: "Please see https://github.com/kubernetes-helm/chartmuseum for usage"
+description: "Start a ChartMuseum web server"
+command: "$HELM_PLUGIN_DIR/servecm.sh"
+useTunnel: false
